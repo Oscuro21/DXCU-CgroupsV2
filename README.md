@@ -113,7 +113,6 @@ En caso de necesitar que se aplique la limitacion automaticamente despues de cad
 restaurar_configuracion() {
     local usuario=$1
     local config_file="$CONFIG_DIR/$usuario/config.txt"
-
     if [ -f "$config_file" ]; then
         source "$config_file"
         echo "Restaurando límites para $usuario: CPU=$CPU_MAX, RAM=$MEMORY_MAX"

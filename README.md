@@ -91,7 +91,9 @@ la opcion "R" es una manera rapida de hacer un respaldo de la carpeta "./config"
 
 la opcion "0" es para salir", en el script se puede agregar arriba del todo "clear" en caso que les quede mas lindo visualmente, ya que el script se ejecuta en bucle hasta no utilizar salir.
 
-
+--------------------------------------------------------------------------------------------------------
+Version para sistemas con mayor restriccion a nivel kernel: https://github.com/Oscuro21/DXCU2-CgroupsV2-
+--------------------------------------------------------------------------------------------------------
 
 -----------
 Explicacion

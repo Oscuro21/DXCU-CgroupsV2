@@ -95,6 +95,12 @@ la opcion "0" es para salir", en el script se puede agregar arriba del todo "cle
 Version para sistemas con mayor restriccion a nivel kernel: https://github.com/Oscuro21/DXCU2-CgroupsV2-
 --------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------
+Script para saturar la memoria RAM: https://github.com/Oscuro21/SaturarRAM
+se debe ejecutar con el usuario que desean probar sus limitaciones
+--------------------------------------------------------------------------
+
+
 -----------
 Explicacion
 -----------
